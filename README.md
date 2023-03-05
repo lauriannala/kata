@@ -1,6 +1,6 @@
 # Kata
 
-**TODO: Add description**
+My codewars solutions!
 
 ## Installation
 
